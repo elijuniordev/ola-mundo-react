@@ -11,7 +11,7 @@ export default function Banner() {
           Olá, mundo!
         </h1>
         <p className={styles.paragrafo}>
-        Boas vindas ao meu espaço pessoal! Eu sou Eli Junior, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+        Boas vindas ao meu espaço pessoal! Eu sou Eli Junior, Desenvolvedor Web. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
         </p>
       </div>
       <div className={styles.imagens}>
